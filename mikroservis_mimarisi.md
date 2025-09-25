@@ -145,13 +145,3 @@ Yazılım mimarisi, bir yazılım sisteminin temel organizasyonunu ve bu organiz
 
 Mikroservis mimarisi, modern yazılım geliştirme dünyasında ölçeklenebilirlik, esneklik ve hızlı inovasyon için önemli bir paradigma değişimidir. Ancak, bu mimarinin getirdiği karmaşıklık ve zorluklar göz ardı edilmemelidir. Doğru araçlar, kültür ve süreçlerle desteklendiğinde, mikroservisler büyük ölçekli projelerde büyük avantajlar sunar. Her organizasyonun ihtiyaçları ve mevcut kaynakları göz önünde bulundurularak mikroservis mimarisine geçiş planlanmalıdır.
 
----
-
-### Kaynaklar:
-- Martin Fowler, James Lewis, “Microservices”
-- Sam Newman, “Building Microservices”
-- Netflix, Amazon, Uber, Spotify Engineering Blog’ları
-- InfoQ, ThoughtWorks Technology Radar
-- Cloud Native Computing Foundation (CNCF) dokümantasyonları
-- Chris Richardson, "Microservices Patterns"
-- Cindy Sridharan, "Distributed Systems Observability"
